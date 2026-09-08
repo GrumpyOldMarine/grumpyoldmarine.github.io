@@ -25,81 +25,94 @@ The portfolio includes the following primary areas:
 - **Contact** — Professional contact information and project links
 
 ## Template Pages
-### Index Page
-![Index Page Template](assets/images/readme/index-page-template.png)
 
-The Index Page serves as the main landing page for the portfolio. It introduces the overall identity of the site, highlights the core development areas, and brings the four milestone projects forward immediately. The goal is to make the first page visually strong, easy to navigate, and clear about the purpose of the portfolio.
-1. **Header / NavBar:** Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.
-2. **Hero / Image Carousel:** Rotating hero artwork presents my main development areas. Includes the portfolio identity overlay, large centered topic title, pagination dots, and manual carousel controls.
-3. **Core Skills:** Quick overview of the five areas that support my work: systems design, programming, visual design, testing, and documentation.
-4. **Selected Work Introduction:** Introduces the four projects I selected as major development milestones and explains why they are presented up front.
-5. **Four Milestone Projects:** Animated GIF or video previews on the left with project context on the right. Hover effects add movement and each card links to its full case study.
-6. **Professional Identity / Development Direction:** Connects my technical background, development approach, and the principles that define my portfolio. Can use infographic elements, icons, and short text blocks.
-7. **Footer:** Standard site footer with secondary navigation and supporting links.
+The following wireframes define the page templates I will use to build the portfolio. The layouts establish a consistent navigation system, modular page structure, and reusable content areas that can expand as additional projects and development work are added.
 
----
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <strong>Index Page</strong><br><br>
+      <img src="assets/images/readme/index-page-template.png" alt="Index Page Template" width="100%">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Milestone / Case Study Page</strong><br><br>
+      <img src="assets/images/readme/milestone-case-study-template.png" alt="Milestone Case Study Page Template" width="100%">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Course Developments Page</strong><br><br>
+      <img src="assets/images/readme/course-developments-template.png" alt="Course Developments Page Template" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.<br><br>
+      <strong>2. Hero / Image Carousel:</strong> Rotating hero artwork presents my main development areas. Includes the portfolio identity overlay, large centered topic title, pagination dots, and manual carousel controls.<br><br>
+      <strong>3. Core Skills:</strong> Quick overview of the five areas that support my work: systems design, programming, visual design, testing, and documentation.<br><br>
+      <strong>4. Selected Work Introduction:</strong> Introduces the four projects I selected as major development milestones and explains why they are presented up front.<br><br>
+      <strong>5. Four Milestone Projects:</strong> Animated GIF or video previews on the left with project context on the right. Hover effects add movement and each card links to its full case study.<br><br>
+      <strong>6. Professional Identity / Development Direction:</strong> Connects my technical background, development approach, and the principles that define my portfolio. Can use infographic elements, icons, and short text blocks.<br><br>
+      <strong>7. Footer:</strong> Standard site footer with secondary navigation and supporting links.
+    </td>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.<br><br>
+      <strong>2. Project Introduction / Media:</strong> Project title, course, purpose, role, technologies, and a large GIF, video, or project image. The media gives the viewer immediate visual context.<br><br>
+      <strong>3. Case Study Content:</strong> Detailed breakdown of the project, including purpose, development process, systems, challenges, results, and reflection. The left project summary can remain visible while scrolling.<br><br>
+      <strong>4. Footer:</strong> Standard site footer with secondary navigation and supporting links.<br><br>
+      <strong>5. Template:</strong> The same structure can be reused for new project case studies as the portfolio grows.
+    </td>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.<br><br>
+      <strong>2. Page Introduction:</strong> Explains that this page presents the complete course development history and how the projects have contributed to my progression / development.<br><br>
+      <strong>3. Development Context:</strong> Short overview of the project history, course progression, or defining terms used to organize the work.<br><br>
+      <strong>4. Project Cards:</strong> Each project uses an animated GIF or video preview with project title, course, term, summary, technologies, and expandable project details. Each project also links to its own Case Study page.<br><br>
+      <strong>5. Footer:</strong> Standard site footer with secondary navigation and supporting links.<br><br>
+      <strong>6. Modularity:</strong> This section is designed to expand as new projects are completed without changing the overall page structure.
+    </td>
+  </tr>
+</table>
 
-### Milestone / Case Study Page Template
-![Milestone / Case Study Page Template](assets/images/readme/milestone-case-study-template.png)
+<br>
 
-This page template is designed for the main case studies in the portfolio. It gives each milestone project enough structure to present the work clearly while keeping the layout consistent from one project to the next. The goal is to show the project, the process, and the technical development behind it without overwhelming the viewer.
-1. **Header / NavBar:** Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.
-2. **Project Introduction / Media:** Project title, course, purpose, role, technologies, and a large GIF, video, or project image. The media gives the viewer immediate visual context.
-3. **Case Study Content:** Detailed breakdown of the project, including purpose, development process, systems, challenges, results, and reflection. The left project summary can remain visible while scrolling.
-4. **Footer:** Standard site footer with secondary navigation and supporting links.
-5. **Template:** The same structure can be reused for new project case studies as the portfolio grows.
-
----
-
-### Course Developments Page
-![Course Developments Page Template](assets/images/readme/course-developments-template.png)
-
-The Course Developments page is intended to show the full progression of projects across the program rather than only the final highlighted work. It acts as a development history page that ties together classes, technical growth, and the projects that supported my movement toward the larger portfolio milestones.
-1. **Header / NavBar:** Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.
-2. **Page Introduction:** Explains that this page presents the complete course development history and how the projects have contributed to my progression / development.
-3. **Development Context:** Short overview of the project history, course progression, or defining terms used to organize the work.
-4. **Project Cards:** Each project uses an animated GIF or video preview with project title, course, term, summary, technologies, and expandable project details. Each project also links to its own Case Study page.
-5. **Footer:** Standard site footer with secondary navigation and supporting links.
-6. **Modularity:** This section is designed to expand as new projects are completed without changing the overall page structure.
-
----
-
-### Faculty & Mentors Page
-![Faculty & Mentors Page Template](assets/images/readme/faculty-mentors-template.png)
-
-This page is designed to recognize the professors and mentors who had a meaningful impact on my development. Rather than burying those contributions inside another page, this layout gives them their own dedicated space and connects their influence directly to the projects and technical growth shown throughout the portfolio.
-1. **Header / NavBar:** Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.
-2. **Page Introduction:** Explains why I am recognizing the professors and mentors who had a meaningful impact on my development.
-3. **Development Connection:** Short statement connecting instruction and mentorship to the projects, technical skills, and decisions shown throughout the portfolio.
-4. **Faculty / Mentor Cards:** Photo on the left with name, course or role, contribution, and Associated Course Project(s). Images use rounded corners with a subtle hover lift and shadow. *(Have to reach out to each for their permission.)*
-5. **Footer:** Standard site footer with secondary navigation and supporting links.
-6. **Modularity:** The card system can be expanded as additional professors, mentors, or professional influences are added.
-
----
-
-### About / Skills Page
-![About / Skills Page Template](assets/images/readme/about-skills-template.png)
-
-The About / Skills page combines personal background with professional direction. It provides the narrative behind the portfolio while also organizing the technical and creative capabilities that support the work. The intent is to connect previous experience, current development work, and the skills that define the portfolio.
-1. **Header / NavBar:** Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.
-2. **About Introduction:** Introduces my background, transition into game development, and the professional identity behind the portfolio.
-3. **Background + Visual Profile:** Combines a short career narrative with a professional image, infographic, or other visual that connects my previous experience to my current development work.
-4. **Skills and Capabilities:** Organizes skills into clear categories such as programming, game development, visual design, AI, testing, and documentation.
-5. **Tools / Supporting Skills:** Quick-reference area for programming languages, engines, applications, development tools, and other supporting technical capabilities.
-6. **Footer:** Standard site footer with secondary navigation and supporting links.
-
----
-
-### Contact Page
-![Contact Page Template](assets/images/readme/contact-page-template.png)
-
-The Contact page is designed to be direct and simple. It gives visitors a clear path to connect with me professionally while still staying visually tied to the rest of the site. The supporting graphic area can reinforce the portfolio identity without competing with the contact details themselves.
-1. **Header / NavBar:** Standard site navigation and identity.
-2. **Contact Introduction:** Short statement explaining what I am looking for and how visitors can connect with me.
-3. **Contact + Professional Profile:** Direct links for email, LinkedIn, YouTube, and other professional platforms. The right side can use my portfolio infographic, profile image, or other related visuals.
-4. **Footer:** Standard site footer with secondary navigation and supporting links.
-
----
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <strong>Faculty &amp; Mentors Page</strong><br><br>
+      <img src="assets/images/readme/faculty-mentors-template.png" alt="Faculty and Mentors Page Template" width="100%">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>About / Skills Page</strong><br><br>
+      <img src="assets/images/readme/about-skills-template.png" alt="About and Skills Page Template" width="100%">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Contact Page</strong><br><br>
+      <img src="assets/images/readme/contact-page-template.png" alt="Contact Page Template" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.<br><br>
+      <strong>2. Page Introduction:</strong> Explains why I am recognizing the professors and mentors who had a meaningful impact on my development.<br><br>
+      <strong>3. Development Connection:</strong> Short statement connecting instruction and mentorship to the projects, technical skills, and decisions shown throughout the portfolio.<br><br>
+      <strong>4. Faculty / Mentor Cards:</strong> Photo on the left with name, course or role, contribution, and Associated Course Project(s). Images use rounded corners with a subtle hover lift and shadow. Permission will be requested before faculty or mentor photos are published.<br><br>
+      <strong>5. Footer:</strong> Standard site footer with secondary navigation and supporting links.<br><br>
+      <strong>6. Modularity:</strong> The card system can be expanded as additional professors, mentors, or professional influences are added.
+    </td>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Site primary navigation. Keeps Home, Milestones, Development, About, and Contact available from every page.<br><br>
+      <strong>2. About Introduction:</strong> Introduces my background, transition into game development, and the professional identity behind the portfolio.<br><br>
+      <strong>3. Background + Visual Profile:</strong> Combines a short career narrative with a professional image, infographic, or other visual that connects my previous experience to my current development work.<br><br>
+      <strong>4. Skills and Capabilities:</strong> Organizes skills into clear categories such as programming, game development, visual design, AI, testing, and documentation.<br><br>
+      <strong>5. Tools / Supporting Skills:</strong> Quick-reference area for programming languages, engines, applications, development tools, and other supporting technical capabilities.<br><br>
+      <strong>6. Footer:</strong> Standard site footer with secondary navigation and supporting links.
+    </td>
+    <td width="33%" valign="top">
+      <strong>1. Header / NavBar:</strong> Standard site navigation and identity.<br><br>
+      <strong>2. Contact Introduction:</strong> Short statement explaining what I am looking for and how visitors can connect with me.<br><br>
+      <strong>3. Contact + Professional Profile:</strong> Direct links for email, LinkedIn, YouTube, and other professional platforms. The right side can use my portfolio infographic, profile image, or other related visuals.<br><br>
+      <strong>4. Footer:</strong> Standard site footer with secondary navigation and supporting links.
+    </td>
+  </tr>
+</table>
 
 ## Visual Direction and Color Palette
 ![Site Color Palette](assets/images/readme/site-color-palette.png)
